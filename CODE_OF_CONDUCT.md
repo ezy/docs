@@ -1,4 +1,3 @@
 # Code of Conduct
 
-- Don't be offensive
-- Be respectful / mindful
+- Be excellent to each other
